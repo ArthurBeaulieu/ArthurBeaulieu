@@ -18,4 +18,6 @@ I'm Arthur, a 3D software engineer at [Dassault Systèmes](https://www.3ds.com/)
 [![](https://badgen.net/badge/ORlyGenerator/1.2.0/yellow)](https://github.com/ArthurBeaulieu/ORlyGenerator)
 [![](https://badgen.net/badge/OstrichRemover/1.5.0/blue)](https://github.com/ArthurBeaulieu/OstrichRemover)
 
+#### Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBeaulieu&layout=compact)](https://github.com/ArthurBeaulieu/github-readme-stats)
