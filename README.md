@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**ArthurBeaulieu/ArthurBeaulieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arthur, a 3D software engineer at [Dassault Systèmes](https://www.3ds.com/), also fond of music and photography. You will find here some projects I'm working on (mostly web ones) :
 
-Here are some ideas to get you started:
+#### JavaScript components
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![https://github.com/ArthurBeaulieu/Shortcut.js](https://badgen.net/badge/Shortcut.js/1.0.0/green)
+![https://github.com/ArthurBeaulieu/Notification.js](https://badgen.net/badge/Notification.js/1.0.0/green)
+![https://github.com/ArthurBeaulieu/Logger.js](https://badgen.net/badge/Logger.js/1.2.0/green)
+![https://github.com/ArthurBeaulieu/CustomEvents.js](https://badgen.net/badge/CustomEvents.js/1.2.0/green)
+
+#### Random projects
+
+![https://github.com/ManaZeak/ManaZeak](https://badgen.net/badge/ManaZeak/0.2.0/green)
+![https://github.com/ArthurBeaulieu/WorldMap](https://badgen.net/badge/WorldMap/0.9.3/green)
+![https://github.com/ArthurBeaulieu/AudioVisualizer](https://badgen.net/badge/AudioVisualizer/0.9.2/green)
+![https://github.com/ArthurBeaulieu/Meax](https://badgen.net/badge/Meax/0.0.1/green)
+![https://github.com/ArthurBeaulieu/ORlyGenerator](https://badgen.net/badge/ORlyGenerator/1.2.0/green)
+![https://github.com/ArthurBeaulieu/OstrichRemover](https://badgen.net/badge/OstrichRemover/1.5.0/green)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBeaulieu&layout=compact)](https://github.com/ArthurBeaulieu/github-readme-stats)
