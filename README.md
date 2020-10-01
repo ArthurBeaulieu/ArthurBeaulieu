@@ -20,4 +20,4 @@ I'm Arthur, a 3D software engineer at [Dassault Systèmes](https://www.3ds.com/)
 
 #### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBeaulieu&layout=compact)](https://github.com/ArthurBeaulieu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBeaulieu&layout=compact)](https://github.com/ArthurBeaulieu)
