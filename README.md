@@ -4,7 +4,14 @@ I'm Arthur, a 3D software engineer at [Dassault Systèmes](https://www.3ds.com/)
 
 #### Applications
 
-[![](https://badgen.net/badge/ManaZeak/0.2.0/yellow)](https://github.com/ManaZeak/ManaZeak)
+- 🎵 [**ManaZeak**](https://github.com/ManaZeak/ManaZeak), a self-hostable web library manager ;
+- 🌍 [**WorlMap**](https://github.com/ArthurBeaulieu/WorldMap), navigate in a 3D web globe ;
+- 🎛️ [**AudioVisualizer**](https://github.com/ArthurBeaulieu/AudioVisualizer), a set of audio visualisation for the web ;
+- 🎚️ [**Meax**](https://github.com/ArthurBeaulieu/Meax), an experimental mixing app for the pioneer DDJ-400 ;
+- 📚 [**ORlyGenerator**](https://github.com/ArthurBeaulieu/ORlyGenerator), generate parodic IT book cover ;
+- 🦃 [**OstrichRemover**](https://github.com/ArthurBeaulieu/OstrichRemover), a script to analyze an audio library an spot its errors.
+
+[![](https://badgen.net/badge/ManaZeak/1.0.0/yellow)](https://github.com/ManaZeak/ManaZeak)
 [![](https://badgen.net/badge/WorldMap/0.9.3/yellow)](https://github.com/ArthurBeaulieu/WorldMap)
 [![](https://badgen.net/badge/AudioVisualizer/0.9.6/yellow)](https://github.com/ArthurBeaulieu/AudioVisualizer)
 [![](https://badgen.net/badge/Meax/0.0.1/yellow)](https://github.com/ArthurBeaulieu/Meax)
