@@ -4,7 +4,7 @@ I'm Arthur, a 3D software engineer at [Dassault Systèmes](https://www.3ds.com/)
 
 #### Applications
 
-- 🎵 [**ManaZeak**](https://github.com/ManaZeak/ManaZeak), a self-hostable web library manager ;
+- 🎵 [**ManaZeak**](https://github.com/ManaZeak/ManaZeak), a self-hostable audio library manager ;
 - 🌍 [**WorlMap**](https://github.com/ArthurBeaulieu/WorldMap), navigate in a 3D web globe ;
 - 🎛️ [**AudioVisualizer**](https://github.com/ArthurBeaulieu/AudioVisualizer), a set of audio visualisation for the web ;
 - 🎚️ [**Meax**](https://github.com/ArthurBeaulieu/Meax), an experimental mixing app for the pioneer DDJ-400 ;
