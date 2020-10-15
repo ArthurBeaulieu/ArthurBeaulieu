@@ -2,8 +2,6 @@
 
 I'm Arthur, a 3D software engineer at [Dassault Systèmes](https://www.3ds.com/), also fond of music and photography. You will find here some projects I'm working on (mostly web ones) :
 
-#### Applications
-
 - 🎵 [**ManaZeak**](https://github.com/ManaZeak/ManaZeak), a self-hostable audio library manager ;
 - 🌍 [**WorlMap**](https://github.com/ArthurBeaulieu/WorldMap), navigate in a 3D web globe ;
 - 🎛️ [**AudioVisualizer**](https://github.com/ArthurBeaulieu/AudioVisualizer), a set of audio visualisation for the web ;
