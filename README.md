@@ -16,6 +16,7 @@ I'm Arthur, a 3D software engineer at [Dassault Systèmes](https://www.3ds.com/)
 [![](https://badgen.net/badge/Logger.js/1.2.0/yellow)](https://github.com/ArthurBeaulieu/Logger.js)
 [![](https://badgen.net/badge/CustomEvents.js/1.2.0/yellow)](https://github.com/ArthurBeaulieu/CustomEvents.js)
 [![](https://badgen.net/badge/TreeList.js/0.0.1/yellow)](https://github.com/ArthurBeaulieu/TreeList.js)
+[![](https://badgen.net/badge/BeatDetect.js/0.0.1/yellow)](https://github.com/ArthurBeaulieu/BeatDetect.js)
 
 #### Languages
 
