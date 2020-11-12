@@ -11,7 +11,7 @@ I'm Arthur, a 3D software engineer at [Dassault Systèmes](https://www.3ds.com/)
 
 #### JavaScript components
 
-[![](https://badgen.net/badge/BeatDetect.js/0.0.1/yellow)](https://github.com/ArthurBeaulieu/BeatDetect.js)
+[![](https://badgen.net/badge/BeatDetect.js/0.1.0/yellow)](https://github.com/ArthurBeaulieu/BeatDetect.js)
 [![](https://badgen.net/badge/Shortcut.js/1.0.0/yellow)](https://github.com/ArthurBeaulieu/Shortcut.js)
 [![](https://badgen.net/badge/Notification.js/1.1.0/yellow)](https://github.com/ArthurBeaulieu/Notification.js)
 [![](https://badgen.net/badge/Logger.js/1.2.0/yellow)](https://github.com/ArthurBeaulieu/Logger.js)
