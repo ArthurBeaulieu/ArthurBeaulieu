@@ -6,8 +6,9 @@ I'm Arthur, a 3D software engineer at [Dassault Systèmes](https://www.3ds.com/)
 - 🌍 [**WorlMap**](https://github.com/ArthurBeaulieu/WorldMap), navigate in a 3D web globe ;
 - 🎛️ [**AudioVisualizer**](https://github.com/ArthurBeaulieu/AudioVisualizer), a set of audio visualisation for the web ;
 - 🎚️ [**Meax**](https://github.com/ArthurBeaulieu/Meax), an experimental mixing app for the pioneer DDJ-400 ;
-- 📚 [**ORlyGenerator**](https://github.com/ArthurBeaulieu/ORlyGenerator), generate parodic IT book cover ;
-- 🦃 [**OstrichRemover**](https://github.com/ArthurBeaulieu/OstrichRemover), a script to analyze an audio library an spot its errors.
+- 🖼️ [**Callery**](https://github.com/ArthurBeaulieu/Callery), a local, static website to browse your photo ;
+- 🦃 [**OstrichRemover**](https://github.com/ArthurBeaulieu/OstrichRemover), a script to analyze an audio library an spot its errors ;
+- 📚 [**ORlyGenerator**](https://github.com/ArthurBeaulieu/ORlyGenerator), generate parodic IT book cover.
 
 #### JavaScript components
 
