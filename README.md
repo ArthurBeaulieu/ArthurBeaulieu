@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Arthur, a 3D software engineer at [Dassault Systèmes](https://www.3ds.com/), also fond of music and photography. You will find here some projects I'm working on (mostly web ones) :
+I'm Arthur, a 3D software engineer currently working at [Dassault Systèmes](https://www.3ds.com/) (Computer Aided Design softwares). I've graduated from [ESIEA Paris](https://www.esiea.fr/) in 2018, with a master degree in computer science. I'm also fond of music and photography. You will find here some projects I'm working on (mostly web ones) :
 
 - 🎵 [**ManaZeak**](https://github.com/ManaZeak/ManaZeak), a self-hostable audio library manager ;
 - 🌍 [**WorlMap**](https://github.com/ArthurBeaulieu/WorldMap), navigate in a 3D web globe ;
