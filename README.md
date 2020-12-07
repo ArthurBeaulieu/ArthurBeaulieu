@@ -9,12 +9,13 @@ I'm Arthur, a 3D software engineer currently working at [Dassault Systèmes](htt
 - 💡 [**Light Fever 440**](https://github.com/Asiberus/Light-Fever-440), read an audio signal and transpose it as a color for raspberry ;
 - 🖼️ [**Callery**](https://github.com/ArthurBeaulieu/Callery), a local, static website to browse images on your computer ;
 - 🦃 [**OstrichRemover**](https://github.com/ArthurBeaulieu/OstrichRemover), a script to analyze an audio library an spot its errors ;
+- 🎸 [**GuiTab**](https://github.com/ArthurBeaulieu/GuiTab), a tab creator for guitar and bass guitar ;
 - 📚 [**ORlyGenerator**](https://github.com/ArthurBeaulieu/ORlyGenerator), generate parodic IT book cover.
 
 #### JavaScript components
 
 [![](https://badgen.net/badge/BeatDetect.js/0.1.1/yellow)](https://github.com/ArthurBeaulieu/BeatDetect.js)
-[![](https://badgen.net/badge/Shortcut.js/1.0.0/yellow)](https://github.com/ArthurBeaulieu/Shortcut.js)
+[![](https://badgen.net/badge/Shortcut.js/1.0.1/yellow)](https://github.com/ArthurBeaulieu/Shortcut.js)
 [![](https://badgen.net/badge/Notification.js/1.1.0/yellow)](https://github.com/ArthurBeaulieu/Notification.js)
 [![](https://badgen.net/badge/Logger.js/1.2.0/yellow)](https://github.com/ArthurBeaulieu/Logger.js)
 [![](https://badgen.net/badge/CustomEvents.js/1.2.0/yellow)](https://github.com/ArthurBeaulieu/CustomEvents.js)
