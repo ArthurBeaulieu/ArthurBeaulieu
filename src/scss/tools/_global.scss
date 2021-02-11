@@ -1,0 +1,90 @@
+:root {
+  --primary: #56D45B;
+  --secondary: #FF6B67;
+  --txt-light: #EEEEEF;
+  --txt-dark: #181818;
+
+  --blue: #3B5998;
+  --pink: #D86EA8;
+
+  --grey: #AAAAAE;
+  --grey-light: #E1E1E1;
+  --grey-dark: #C5C5C5;
+  --grey-alpha: rgba(155, 155, 155, .3);
+
+  --bg-light: #717070;
+  --bg-dark: #181818;
+  --bg-light-alpha: rgba(113, 112, 112, .3);  
+  --bg-dark-alpha: rgba(24, 24, 24, .3);
+
+  --nav-height: 20%;
+  --adoption-highlight-height: 14rem;
+  --footer-height: 5rem;
+
+  --view-padding: 0 15%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  font-size: 62.5%;
+  font-family: Segoe UI, Helvetica, sans-serif;
+  height: 100vh;
+  width: 100vw;
+}
+
+h1 {
+  font-size: 3.2rem;
+}
+
+h2 {
+  font-size: 2.6rem;
+}
+
+h3 {
+  font-size: 2.2rem;
+}
+
+h4 {
+  font-size: 2rem;
+}
+
+h5 {
+  font-size: 1.8rem;
+}
+
+h6 {
+  font-size: 1.6rem;
+}
+
+a {
+  color: var(--primary);
+}
+
+a, p, span, li, i {
+  font-size: 1.4rem;
+}
+
+p {
+  &.lead {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+}
+
+.align-right {
+  align-self: flex-end;
+  text-align: right;
+}
+
+.green {
+  color: var(--primary);  
+}
+
+.red {
+  color: var(--secondary);
+}

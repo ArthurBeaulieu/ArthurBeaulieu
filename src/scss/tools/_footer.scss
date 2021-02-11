@@ -1,0 +1,21 @@
+footer {
+  align-items: center;
+  background-image: linear-gradient(135deg, var(--bg-dark) 15%, var(--bg-light) 150%);
+  bottom: 0;
+  color: var(--txt-light);
+  display: flex;
+  flex-direction: column;
+  height: var(--footer-height);
+  justify-content: center;
+  padding: var(--view-padding);
+  position: absolute;
+  width: 100%;
+
+  a, p {
+  	font-size: 1.2rem;
+  }
+
+  a {
+   text-decoration: none;
+  }
+}

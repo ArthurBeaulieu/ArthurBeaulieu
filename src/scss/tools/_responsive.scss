@@ -1,0 +1,133 @@
+@media only screen and (max-width: 1400px) {
+  :root {
+    --view-padding: 0 5%;
+  }
+
+  nav {
+    .info-container {
+      padding: 0 2.5rem;
+    }
+  }
+
+  .dog-adoption {
+    .nav-left {
+      left: calc(5% - 18px);
+    }
+
+    .nav-right {
+      right: calc(5% - 18px);
+    }
+  }
+
+  .adopt-container {
+    .to-adopt,
+    .adopted {
+      .dogs {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 820px) {
+  nav {
+    padding: 0 2.5rem;
+
+    .logo-container {
+      height: 50%;
+    }
+
+    .info-container {
+      padding-right: 0;
+
+      h1 {
+        font-size: 2rem;
+      }
+
+      h3 {
+        font-size: 1.6rem;
+      }
+    }
+
+    .social {
+      flex-direction: column-reverse;
+
+      a {
+        padding-top: .5rem;
+      }
+    }
+  }
+
+  .homepage-container {
+    flex-direction: column-reverse;
+
+    .homepage-left,
+    .homepage-right {
+      margin: 0;
+      width: 100%;
+    }
+
+    .homepage-left {
+      margin-bottom: 2rem;
+    }
+
+    .homepage-right {
+      .homepage-announcement,
+      .partnership {
+        width: 70%;
+      }
+    }
+  }
+
+  .adopt-container {
+    .to-adopt,
+    .adopted {
+      .dogs {
+        grid-template-columns: repeat(1, 1fr);
+      }
+    }
+  }
+
+  .modal {
+    .container .dog {
+      flex-direction: column;
+
+      div {
+        width: 100%;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 545px) {
+  :root {
+    --nav-height: 14rem;
+  }
+
+  html, body {
+    font-size: 50%;
+  }
+
+  nav {
+    .logo-container, .social {
+      display: none;
+    }
+
+    .info-container {
+      padding-left: 0;
+      width: 100%;
+
+      .page-title {
+        align-items: center;
+
+        h3 {
+          margin-left: 0;
+        }
+      }
+
+      .menu {
+        justify-content: center;
+      }
+    }
+  }
+}
