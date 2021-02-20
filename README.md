@@ -12,7 +12,7 @@ I'm Arthur, a 3D software engineer currently working at [Dassault Systèmes](htt
 - 🎸 [**GuiTab**](https://github.com/ArthurBeaulieu/GuiTab), a tab creator for guitar and bass guitar ;
 - 📚 [**ORlyGenerator**](https://github.com/ArthurBeaulieu/ORlyGenerator), generate parodic IT book cover.
 
-#### JavaScript components
+#### Front end components
 
 [![](https://badgen.net/badge/BeatDetect.js/1.0.0/yellow)](https://github.com/ArthurBeaulieu/BeatDetect.js)
 [![](https://badgen.net/badge/Shortcut.js/1.0.1/yellow)](https://github.com/ArthurBeaulieu/Shortcut.js)
@@ -21,6 +21,10 @@ I'm Arthur, a 3D software engineer currently working at [Dassault Systèmes](htt
 [![](https://badgen.net/badge/CustomEvents.js/1.2.0/yellow)](https://github.com/ArthurBeaulieu/CustomEvents.js)
 [![](https://badgen.net/badge/Kom.js/0.1.0/yellow)](https://github.com/ArthurBeaulieu/Kom.js)
 [![](https://badgen.net/badge/TreeList.js/0.0.1/yellow)](https://github.com/ArthurBeaulieu/TreeList.js)
+
+#### Templates
+
+[![](https://badgen.net/badge/TreeList.js/0.0.1/yellow)](https://github.com/ArthurBeaulieu/UserStack)
 
 #### Languages
 
