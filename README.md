@@ -24,7 +24,7 @@ I'm Arthur, a 3D software engineer currently working at [Dassault Systèmes](htt
 
 #### Templates
 
-[![](https://badgen.net/badge/UserStack/0.0.1/yellow)](https://github.com/ArthurBeaulieu/UserStack)
+[![](https://badgen.net/badge/UserStack/0.1.0/yellow)](https://github.com/ArthurBeaulieu/UserStack)
 
 #### Languages
 
