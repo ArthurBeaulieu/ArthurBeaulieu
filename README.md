@@ -29,4 +29,4 @@ I'm Arthur, a 3D software engineer currently working at [Dassault Systèmes](htt
 
 #### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBeaulieu&layout=compact)](https://github.com/ArthurBeaulieu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBeaulieu&layout=compact&theme=tokyonight)](https://github.com/ArthurBeaulieu)
