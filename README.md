@@ -19,6 +19,7 @@ I'm Arthur, a 3D software engineer currently working at [Dassault Systèmes](htt
 [![](https://badgen.net/badge/Notification.js/1.1.0/yellow)](https://github.com/ArthurBeaulieu/Notification.js)
 [![](https://badgen.net/badge/Logger.js/1.2.0/yellow)](https://github.com/ArthurBeaulieu/Logger.js)
 [![](https://badgen.net/badge/CustomEvents.js/1.2.0/yellow)](https://github.com/ArthurBeaulieu/CustomEvents.js)
+[![](https://badgen.net/badge/KolorPick/0.1.0/yellow)](https://github.com/ArthurBeaulieu/KolorPick)
 [![](https://badgen.net/badge/Kom.js/0.1.0/yellow)](https://github.com/ArthurBeaulieu/Kom.js)
 [![](https://badgen.net/badge/TreeList.js/0.0.1/yellow)](https://github.com/ArthurBeaulieu/TreeList.js)
 
