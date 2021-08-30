@@ -10,6 +10,7 @@ I'm Arthur, a 3D software engineer currently working at [Dassault Systèmes](htt
 - 🖼️ [**Callery**](https://github.com/ArthurBeaulieu/Callery), a local, static website to browse images on your computer ;
 - 🦃 [**OstrichRemover**](https://github.com/ArthurBeaulieu/OstrichRemover), a script to analyze an audio library an spot its errors ;
 - 🎸 [**GuiTab**](https://github.com/ArthurBeaulieu/GuiTab), a tab creator for guitar and bass guitar ;
+- 🌑 [**GrandeBocce**](https://github.com/ArthurBeaulieu/GrandeBocce), a web app to be used as a referee for Bocce game and tournament ;
 - 📚 [**ORlyGenerator**](https://github.com/ArthurBeaulieu/ORlyGenerator), generate parodic IT book cover.
 
 #### Front end components
