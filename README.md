@@ -32,6 +32,6 @@ I'm Arthur, a 3D software engineer currently working at [Dassault Systèmes](htt
 
 #### Websites
 
-[![](https://badgen.net/badge/nac.band/1.0.0/yellow)](https://github.com/ArthurBeaulieu/nac.band)
-[![](https://badgen.net/badge/theforge.band/0.0.1/yellow)](https://github.com/ArthurBeaulieu/theforge.band)
-[![](https://badgen.net/badge/messe-basse-production.com/0.0.1/yellow)](https://github.com/ArthurBeaulieu/messe-basse-production.com)
+[![](https://badgen.net/badge/nac.band/1.0.0/yellow)](https://github.com/Messe-Basse-Production/nac.band)
+[![](https://badgen.net/badge/theforge.band/0.0.1/yellow)](https://github.com/Messe-Basse-Production/theforge.band)
+[![](https://badgen.net/badge/messe-basse-production.com/0.0.1/yellow)](https://github.com/Messe-Basse-Production/messe-basse-production.com)
