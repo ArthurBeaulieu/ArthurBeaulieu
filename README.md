@@ -4,7 +4,7 @@ I'm Arthur, a 3D software engineer currently working at [Dassault Systèmes](htt
 
 - 🎵 [**ManaZeak**](https://github.com/ManaZeak/ManaZeak), a self-hostable audio library manager ;
 - 🌍 [**WorldMap**](https://github.com/ArthurBeaulieu/WorldMap), navigate in a 3D web globe ;
-- 🎛️ [**AudioVisualizer**](https://github.com/ArthurBeaulieu/AudioVisualizer), a set of audio visualisation for the web ;
+- 🎛️ [**AudioVisualizer**](https://github.com/ArthurBeaulieu/AudioVisualizer), a set of audio visualisation for the web (v1.0.0) ;
 - 🎚️ [**Meax**](https://github.com/ArthurBeaulieu/Meax), an experimental mixing app for the pioneer DDJ-400 ;
 - 💡 [**Light Fever 440**](https://github.com/Asiberus/Light-Fever-440), read an audio signal and transpose it as a color for raspberry ;
 - 🖼️ [**Callery**](https://github.com/ArthurBeaulieu/Callery), a local, static website to browse images on your computer ;
